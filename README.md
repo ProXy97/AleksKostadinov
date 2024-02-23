@@ -15,10 +15,10 @@
 ###
 
 <div align="left">
-  <h3>Connect -> </h3>
+  <h3>Connect ->
   <a href="https://www.linkedin.com/in/aleksandar-kostadinov-575997208/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  </a></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,react,html,css,vscode,postgres,azure,docker,git,sql,)](https://skillicons.dev)
 
