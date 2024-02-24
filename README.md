@@ -17,7 +17,7 @@
 <div align="left">
   <h3>Connect ->
   <a href="https://www.linkedin.com/in/aleksandar-kostadinov-575997208/" target="_blank">
-   https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+  <img src= "https://skillicons.dev/icons?i=linkedin" alt ="linkedin" />
   </a></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,react,html,css,vscode,postgres,azure,docker,git,sql,)](https://skillicons.dev)
