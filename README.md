@@ -20,7 +20,7 @@
   <img src= "https://skillicons.dev/icons?i=linkedin" alt ="linkedin" />
   </a></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,react,html,css,vscode,postgres,azure,docker,git,sql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,react,html,css,bootstrap,vscode,postgres,azure,docker,git,sql,)](https://skillicons.dev)
 
 <h3 align="left">🔥   My Stats :</h3>
 
