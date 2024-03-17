@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from Bulgaria<br><br>- 🔭 Ask me about .NET, Javascript and MSSQL<br>- 📚 I'm currently learning DevOps<br>
+<p align="left">I'm ... from Bulgaria<br><br>- 🔭 Ask me about .NET, Javascript, HTML/CSS and MSSQL<br>- 📚 I'm currently learning DevOps<br>
 
 ###
 
